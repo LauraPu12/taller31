@@ -29,8 +29,8 @@ public class ArbolBinario {
         raiz.izquierdo.derecho = new Nodo(7);   // hijo derecho de 5
 
         // Mostrar algunos valores, sirve´para comprobar
-        System.out.println("Raíz: " + raiz.dato); // imprime 10
-        System.out.println("Izquierdo de raíz: " + raiz.izquierdo.dato); // imprime 5
-        System.out.println("Derecho de raíz: " + raiz.derecho.dato); // imprime 20
+        System.out.println("Raiz: " + raiz.dato); // imprime 10
+        System.out.println("Izquierdo de raiz: " + raiz.izquierdo.dato); // imprime 5
+        System.out.println("Derecho de raiz: " + raiz.derecho.dato); // imprime 20
     }
 }
