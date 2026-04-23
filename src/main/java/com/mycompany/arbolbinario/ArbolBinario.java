@@ -1,4 +1,5 @@
 //crear el proyecto arbol binario
+//se agrego el link a txt
 package com.mycompany.arbolbinario;
 
 public class ArbolBinario {
